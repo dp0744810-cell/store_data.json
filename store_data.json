@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Free Fire MAX OB46",
+    "info": "Action • 650 MB • ★ 4.6",
+    "category": "GAME",
+    "iconText": "FF",
+    "iconColor": "#FF5722",
+    "iconUrl": "https://raw.githubusercontent.com/username/repo/main/ff_icon.png",
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.dts.freefiremax"
+  },
+  {
+    "name": "Tank Stars Mod VIP",
+    "info": "Arcade • 145 MB • ★ 4.8",
+    "category": "GAME",
+    "iconText": "TS",
+    "iconColor": "#4CAF50",
+    "iconUrl": "https://raw.githubusercontent.com/username/repo/main/tank_icon.png",
+    "downloadUrl": "https://example.com/tankstars.apk"
+  },
+  {
+    "name": "Acode - Pro Code Editor",
+    "info": "Tools • 28 MB • ★ 4.9",
+    "category": "APP",
+    "iconText": "AC",
+    "iconColor": "#2196F3",
+    "iconUrl": "",
+    "downloadUrl": "https://example.com/acode.apk"
+  }
+]
